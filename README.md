@@ -32,14 +32,10 @@ Here are some ideas to get you started:
 -->
 ## 🚀 Tech Stack
 
-### 💡 Languages & Frameworks
+### 🤖 Machine Learning & Deep Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### 🤖 Machine Learning & Deep Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -48,10 +44,6 @@ Here are some ideas to get you started:
 ![Seaborn](https://img.shields.io/badge/Seaborn-43BCCD?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
-
-### 🔗 Langchain + RAG
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20(Retrieval%20Augmented%20Generation)-2C3E50?style=for-the-badge)
 
