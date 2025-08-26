@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Dhruvi Gaur!
+## 👋 Hey there, I'm Dhruvi!
 A tech creator with a designer’s heart and a deep curiosity for Artificial Intelligence and Machine Learning.
 I love turning ideas into intelligent, user-centric solutions—merging data-driven systems with aesthetic design thinking. 🎨🤖
 
